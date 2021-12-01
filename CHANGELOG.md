@@ -4,6 +4,10 @@ Note: this changelog is for the shields.io server. The changelog for the badge-m
 
 ---
 
+## server-2021-12-01
+
+- Dependency updates
+
 ## server-2021-08-01
 
 - [Sonar] Fix invalid fetch query to sonarqube >=6.6 [#6636](https://github.com/badges/shields/issues/6636)
